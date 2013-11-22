@@ -95,5 +95,7 @@
 
 <label>JavaScript</label>
 <pre>
-
+	$('.video-widget').widgetPaginator({
+		'controlsContainer' : '#video-widget-controls'
+	});	
 </pre>
