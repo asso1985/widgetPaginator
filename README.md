@@ -88,4 +88,12 @@
 						&lt;/li&gt;
 					&lt;/ul&gt;
 &lt;/div&gt;	
+
+&lt;script type="text/javascript" src="http://codeorigin.jquery.com/jquery-2.0.3.min.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="widgetPaginator.js"&gt;&lt;/script&gt;
+</pre>
+
+<label>JavaScript</label>
+<pre>
+
 </pre>
