@@ -1,5 +1,5 @@
 
-(function( $ ){
+(function($){
   $.fn.widgetPaginator = function(options) {
 	var container = this;
 	
